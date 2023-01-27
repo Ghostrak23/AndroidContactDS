@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AndroidContactDS</string>
+
+    <!-- Créer une liste de contacts avec Prenom, nom, adresse, mail -->
+    <string name="contact_first_name">John</string>
+    <string name="contact_last_name">Snow</string>
+    <string name="contact_address">884 Avenue Isaac Newton</string>
+    <string name="contact_mail">johnsnow@winteriscoming.com</string>
+
+    <string name="contact_first_name_2">John</string>
+    <string name="contact_last_name_2">Cena</string>
+    <string name="contact_address_2">9462 Shore Rd, Fish Creek, United States</string>
+    <string name="contact_email_2">andhisnameis@john.cena.com</string>
 </resources>
